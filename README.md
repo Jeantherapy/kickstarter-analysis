@@ -8,7 +8,15 @@
 
 **Analysis and Challenges
 
-  ###In this project, we reviewed the theater outcomes based on launch date and observed no relationship between the lunch dates and the total percentage outcomes
+  ###In this project, we reviewed the theater outcomes based on launch date and observed no relationship between the lunch dates and the total percentage outcomes. See image 1 below.
+  
+   ###Some of the challenges encountered during this analysis inlcudes ensuring the row labels are changed to display the months of the year, and the       campaign outcomes are sorted in descending order, i had some diffculty createing the line chart is created and ensuring i show the number of successful,  failed, canceled projects by month and the title.
+
+  ###This outcomes showed no relationship with the amount of successful, Failed and Canceled
+  
+![image 1](https://github.com/Jeantherapy/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+  
+  ###We also reviewed the transfer
 ![image 2](https://github.com/Jeantherapy/kickstarter-analysis/blob/main/Resources/Outcomes_%20vs_Goals.png)
 
 more text
