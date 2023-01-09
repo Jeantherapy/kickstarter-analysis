@@ -16,7 +16,15 @@
   
 ![image 1](https://github.com/Jeantherapy/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
   
-  ###We also reviewed the transfer
+  ###We also reviewed the outcomes based on goals and based on the chart, you would see a relationship
 ![image 2](https://github.com/Jeantherapy/kickstarter-analysis/blob/main/Resources/Outcomes_%20vs_Goals.png)
 
-more text
+**Results
+
+##What are two conclusions you can draw about the Theater Outcomes by Launch Date? based on the chart, i do not believe there is a relationship, each outcome was significantly didfferent.
+
+##What can you conclude about the Outcomes based on Goals? Based on the chart, there seem to be a level of relationship.
+
+##What are some limitations of this dataset? The criteria could have been different and the ranges was to broad.
+
+##What are some other possible tables and/or graphs that we could create? percentage canceled added no value to the data needed, this should have been skipped. The chart did use the specific data criteria during the chart trend.
